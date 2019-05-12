@@ -462,7 +462,7 @@ export const navigation: Array<NotaddNavigationItem> = [
                 ]
             }
         ]
-    }/*,
+    },
     {
         id: 'applications',
         title: '应用',
@@ -532,7 +532,7 @@ export const navigation: Array<NotaddNavigationItem> = [
                 ]
             }
         ]
-    }*/,
+    },
     {
         id: 'services',
         title: 'SERVICES',

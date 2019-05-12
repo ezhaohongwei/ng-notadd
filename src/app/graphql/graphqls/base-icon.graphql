@@ -7,5 +7,4 @@ query baseIcon {
             name
         }
     }
-
 }
